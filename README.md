@@ -2,18 +2,20 @@
 
 Skills shared between the Nouride agents on Ndan's machines.
 
+Repo: https://github.com/HadadKarsa/nouride-skills
+
 ## Install
 
 On any Nouride box:
 
 ```
-skill install nouverse/nouride-skills/dev-prod-handoff
+skill install HadadKarsa/nouride-skills/dev-prod-handoff
 ```
 
 Or, if the CLI wants a URL:
 
 ```
-skill install https://github.com/nouverse/nouride-skills
+skill install https://github.com/HadadKarsa/nouride-skills
 ```
 
 The skill is queued for approval; nothing runs until a person approves it on the Pending tab.
